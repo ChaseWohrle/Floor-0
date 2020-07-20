@@ -26,5 +26,10 @@ p {
   text-align: center;
 }
 
-  
+li {
+  color: black;
+  font-size: large;
+  font-family: Georgia, serif;
+  text-align: center;
+} 
   
