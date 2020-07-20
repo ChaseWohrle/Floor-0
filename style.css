@@ -10,6 +10,8 @@
  margin: auto;
 } 
 
+/* Need help centering the image, thought this was accomplished with "margin: auto;" */
+
 h1 {
   color: black;
   font-size: large;
@@ -37,6 +39,8 @@ li {
   font-family: Georgia, serif;
   text-align: center;
 } 
+
+/* Preferred uniform font and styling across all text */
   
 a:link: {
  color: blue;
@@ -50,7 +54,9 @@ a:hover: {
  color: red;
 } 
 
-a:link: {
+a:active: {
  color: purple;
 } 
+
+/* Wanted to consider all link conditions */
 
