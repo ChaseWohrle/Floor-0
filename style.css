@@ -5,6 +5,11 @@
   padding: 10;
 }
   
+.image {
+ outline: solid; 
+ text-align: center;
+} 
+
 h1 {
   color: black;
   font-size: large;
