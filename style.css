@@ -38,3 +38,19 @@ li {
   text-align: center;
 } 
   
+a:link: {
+ color: blue;
+} 
+
+a:visited: {
+ color: green;
+} 
+
+a:hover: {
+ color: red;
+} 
+
+a:link: {
+ color: purple;
+} 
+
