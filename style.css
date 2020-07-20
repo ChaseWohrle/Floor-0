@@ -1,40 +1,30 @@
 .background {
   background: white; 
+  height: 100%;
+  margin: 25;
+  padding: 10;
 }
   
 h1 {
   color: black;
   font-size: large;
   font-family: Georgia, serif;
+  text-align: center;
 }
 
 h2 {
   color: black;
   font-size: large;
   font-family: Georgia, serif;
+  text-align: center;
 }
 
 p {
   color: black;
   font-size: large;
   font-family: Georgia, serif;
-}
-
-.height {
-  height: 100%;
-}
-
-.margin {
-  margin: 25;
-}
-  
-.padding {
-  padding: 50;
-}
-
-.text-align {
   text-align: center;
 }
-  
+
   
   
