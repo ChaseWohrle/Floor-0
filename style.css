@@ -1,16 +1,13 @@
 .background {
   background: grey; 
   height: 100%;
-  margin: 25;
+  margin: 25; /* want to specify units, pixels*/ 
   padding: 10;
 }
   
 .image {
  outline: solid; 
- margin: auto;
 } 
-
-/* Need help centering the image, thought this was accomplished with "margin: auto;" */
 
 h1 {
   color: black;
