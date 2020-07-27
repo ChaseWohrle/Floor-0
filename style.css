@@ -37,6 +37,12 @@ li {
   text-align: center;
 } 
 
+.group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+
 /* Preferred uniform font and styling across all text */
   
 a:link: {
