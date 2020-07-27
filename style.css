@@ -23,6 +23,13 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  color: black;
+  font-size: large;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
 p {
   color: black;
   font-size: large;
