@@ -1,8 +1,12 @@
+main {
+  padding: 20px
+}   
+
 .background {
   background: grey; 
   height: 100%;
-  margin: 25; /* want to specify units, pixels*/ 
-  padding: 10;
+  margin: 25px; 
+  padding: 10px;
 }
   
 .image {
@@ -18,6 +22,7 @@ h1 {
   font-size: large;
   font-family: Georgia, serif;
   text-align: center;
+  margin: 0 0 30px 10px;
 }
 
 h2 {
@@ -25,6 +30,7 @@ h2 {
   font-size: large;
   font-family: Georgia, serif;
   text-align: center;
+  margin: 0 10px;
 }
 
 h3 {
@@ -32,6 +38,7 @@ h3 {
   font-size: large;
   font-family: Georgia, serif;
   text-align: center;
+  margin: 1px;
 }
 
 p {
