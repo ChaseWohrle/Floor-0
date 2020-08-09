@@ -1,4 +1,4 @@
-/* --- General --- */
+/* General */
 main {
   padding: 20px
 }   
@@ -61,6 +61,35 @@ li {
   flex-direction: column;
   margin-bottom: 100px;
 }
+
+/* Navigation */ 
+
+header {
+  background-color: grey;
+  margin-bottom: 40 px; 
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
+header nav ul {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20 px 0 0;
+} 
+
+header nav ul li:last-child a {
+  margin-right: 0; 
+}  
+
 
 /* Groups & Items  (Desktop) */
 
