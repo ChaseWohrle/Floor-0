@@ -1,3 +1,4 @@
+/* --- General --- */
 main {
   padding: 20px
 }   
@@ -65,8 +66,12 @@ li {
 
 @media all and (min-width: 800px) {
   .group {
+    display: flex;
     flex-direction: row;
   }
+  p {
+    font-size: large;
+  }  
 }
 
 /* Preferred uniform font and styling across all text */
