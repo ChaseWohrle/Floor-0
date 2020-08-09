@@ -103,6 +103,8 @@ header nav ul li:last-child a {
   }  
 }
 
+/* @media mobile below 400 (change to desktop) */
+
 /* Preferred uniform font and styling across all text */
   
 a:link: {
