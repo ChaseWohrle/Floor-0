@@ -96,7 +96,8 @@ header nav ul li:last-child a {
 @media all and (min-width: 800px) {
   .group {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    margin-bottom: 100px; 
   }
   p {
     font-size: large;
