@@ -111,7 +111,17 @@ header nav ul li:last-child a {
   }  
 }
 
-/* @media mobile below 400 (change to desktop) */
+@media all and (min-width: 400px) {
+  .group {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px; 
+  }
+  p {
+    font-size: large;
+  }  
+}
+/* @media mobile below 400 */
 
 /* Preferred uniform font and styling across all text */
   
