@@ -155,6 +155,8 @@ a:active: {
 iframe {
   margin-left: auto;
   margin-right: auto;
+  height: 150px;
+  width: 150px;
 }
 
 
