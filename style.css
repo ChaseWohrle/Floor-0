@@ -129,6 +129,10 @@ header nav ul li:last-child a {
   p {
     font-size: large;
   }  
+  .map {
+    margin-left: 0;
+    margin-right: 0;
+  }  
 }
 /* @media mobile below 400 */
 
