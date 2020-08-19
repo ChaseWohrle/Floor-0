@@ -6,7 +6,7 @@ main {
 .background {
   background: grey; 
   height: 100%;
-  margin: 25px; 
+  margin: 0; 
   padding: 10px;
 }
   
