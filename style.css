@@ -129,8 +129,8 @@ header nav ul li:last-child a {
     font-size: large;
   }  
   .map {
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 50%;
+    margin-right: 50%;
   }  
 }
 /* @media mobile below 400 */
@@ -156,8 +156,8 @@ a:active: {
 /* Wanted to consider all link conditions */
 
 iframe {
-  margin-left: 0%;
-  margin-right: 0%;
+  margin-left: 50%;
+  margin-right: 50%;
   height: 150px;
   width: 150px;
 }
