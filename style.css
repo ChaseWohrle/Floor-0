@@ -72,8 +72,7 @@ li {
 
 .map {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 } 
 
 /* Navigation */ 
@@ -129,8 +128,7 @@ header nav ul li:last-child a {
     font-size: large;
   }  
   .map {
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
   }  
 }
 /* @media mobile below 400 */
@@ -156,8 +154,7 @@ a:active: {
 /* Wanted to consider all link conditions */
 
 iframe {
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   height: 150px;
   width: 150px;
 }
