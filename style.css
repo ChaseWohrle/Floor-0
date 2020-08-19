@@ -130,6 +130,9 @@ header nav ul li:last-child a {
   .map {
     margin: auto;
   }  
+  .form {
+    margin: 0; 
+  }  
 }
 /* @media mobile below 400 */
 
